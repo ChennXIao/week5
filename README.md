@@ -1,7 +1,7 @@
 # week5
 
-
-1. <img width="733" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1df5d22d-803f-4d61-ae09-7ee8ddf3ae63">
+##SQL CRUD
+- <img width="733" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1df5d22d-803f-4d61-ae09-7ee8ddf3ae63">
 2. <img width="542" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1a9f6b55-114e-459c-aaf2-0ddde472acc1">
 
 3. <img width="541" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/4d7188b0-8c6a-4c63-82dd-44b83874d77b">
