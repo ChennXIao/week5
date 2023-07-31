@@ -1,9 +1,8 @@
 # week5
 
 
-1.
-<img width="733" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1df5d22d-803f-4d61-ae09-7ee8ddf3ae63">
-2.<img width="542" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1a9f6b55-114e-459c-aaf2-0ddde472acc1">
+1. <img width="733" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1df5d22d-803f-4d61-ae09-7ee8ddf3ae63">
+2. <img width="542" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/1a9f6b55-114e-459c-aaf2-0ddde472acc1">
 
 3. <img width="541" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/4d7188b0-8c6a-4c63-82dd-44b83874d77b">
 4. <img width="526" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/c18ffbc5-c931-4a6c-bbdc-47e5ae1e5e7e">
@@ -19,6 +18,8 @@
 <img width="856" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/aa24e409-6724-494a-82bf-6bd3f7c96a95">
 
 <img width="948" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/01d9b7c6-759a-415e-81bc-9876ca6460a5">
+<img width="954" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/ec2445c8-7319-4919-baf9-881d8990d308">
+<img width="806" alt="image" src="https://github.com/ChennXIao/week5/assets/61040179/c90aeedc-e711-4368-87d9-ef64be52627d">
 
 
 
